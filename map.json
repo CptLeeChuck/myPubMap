@@ -898,7 +898,7 @@
         {
          "columns":2,
          "firstgid":321,
-         "image":"..\/..\/my1stTile.png",
+         "image":"my1stTile.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
